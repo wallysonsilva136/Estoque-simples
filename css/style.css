@@ -1,0 +1,71 @@
+* { 
+padding: 0px;
+margin: 0px;
+
+}
+
+body { 
+    overflow-x: hidden;
+}
+
+header h2 { 
+    padding: 20px;
+}
+
+footer h2 { 
+text-align: center;
+
+}
+
+section form .btn { 
+background-color: aqua;
+margin: 20px;
+margin-left: 200px;
+}
+
+.boxSucesso { 
+    background: rgba(50,170,50,0.9);
+    height: 40px;
+    width: 300px;
+    border-radius: 2px;
+    border: 0;
+    color: #fff;
+    box-shadow: 1px 1px 5px #000;
+    padding: 12px;
+    padding-bottom: 12px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.boxErro {
+    background: rgba(170,50,50,0.9);
+    height: 40px;
+    width: 300px;
+    border-radius: 2px;
+    border: 0;
+    color: #fff;
+    box-shadow: 1px 1px 5px #000;
+    padding: 12px;
+    font-weight: bold;
+    margin: 10px 0;
+  
+  }
+  .lista { 
+text-align: center;
+
+  }
+
+ form .row { 
+  margin-left: 130px;
+padding: 50px;
+  }
+   
+.mb-3 .form-control { 
+    width: 500px;
+margin-left: 200px;
+  }
+
+  .mb-3 .form-label { 
+    width: 500px;
+margin-left: 200px;
+  }  
