@@ -1,1 +1,2 @@
-Sistema de estoque com o arquivo do banco sql, sistema simples com tabelas de produto, cliente e venda.     
+- Sistema de estoque com o arquivo do banco sql, sistema simples com tabelas de produtos, clientes e vendas.
+- Feito em linguagem de programação PHP, utilizando ferramentas Xampp e phpmyadmin.     
